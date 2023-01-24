@@ -1,0 +1,39 @@
+html{
+    scroll-behavior: smooth;
+}
+body{
+    margin:0px;
+    background-color: rgb(133, 113, 21);
+}
+h1{
+    color:rgb(255, 217, 0);
+}
+ul li{
+    color:black;
+}
+
+header{
+    background-color: gray;
+}
+ul li:hover{
+    display: inline;
+    background-color: aqua;
+}
+header nav a{
+    color: white;
+    padding: 15px 15px; 
+    display: inline-block;
+ }
+header nav a:hover{
+    background-color:black;
+ }
+ a{
+    text-decoration: none;
+ }
+ div{
+    text-align: center;   
+ }
+ div img{
+    width: 500px;
+    height: 400px;
+ }
